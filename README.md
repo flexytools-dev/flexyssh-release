@@ -17,8 +17,7 @@ _Professional SSH client with beautiful interface and powerful features_
 > **⚠️ Beta Version Notice**
 > Hey there! 👋 FlexySSH is still in **beta** - we're actively building and improving it based on your feedback. You might run into a bug or two, but that's part of the journey! Help us make it better by reporting issues or suggesting features.
 >
-> **⏰ This beta expires:** **Expires:** 2025-12-17
-> Don't worry - we'll release a fresh version before then! 🚀
+> Each beta version has a 30-day expiration for security reasons - it may contain unpatched bugs or vulnerabilities. We'll release fresh, updated versions regularly. Make sure to update when a new release drops! 🔒
 
 ---
 
