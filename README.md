@@ -19,6 +19,20 @@ _Professional SSH client with beautiful interface and powerful features_
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+<img src="screenshots/connection-manager.png" alt="Connection Manager" width="30%" />
+<img src="screenshots/terminal.png" alt="Terminal" width="30%" />
+<img src="screenshots/snippets.png" alt="Snippets Manager" width="30%" />
+
+_Connection Manager • Terminal Sessions • Snippet Manager_
+
+</div>
+
+---
+
 ## ✨ Features
 
 ### 🔐 Secure Connections
