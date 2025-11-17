@@ -10,7 +10,7 @@
 
 _Professional SSH client with beautiful interface and powerful features_
 
-[Download](https://github.com/flexytools-dev/flexyssh/releases) • [Documentation](#-quick-start) • [Features](#-features)
+[Download](https://github.com/flexytools-dev/flexyssh-release/releases) • [Documentation](#-quick-start) • [Features](#-features)
 
 </div>
 
@@ -69,7 +69,7 @@ _Connection Manager • Terminal Sessions • Snippet Manager_
 
 ### Getting Started
 
-1. **Grab the installer** from our [Releases page](https://github.com/flexytools-dev/flexyssh/releases) 📦
+1. **Grab the installer** from our [Releases page](https://github.com/flexytools-dev/flexyssh-release/releases) 📦
 
 2. **Your browser might get protective** 🛡️
 
