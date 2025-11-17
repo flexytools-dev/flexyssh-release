@@ -15,7 +15,10 @@ _Professional SSH client with beautiful interface and powerful features_
 </div>
 
 > **⚠️ Beta Version Notice**
-> FlexySSH is currently in active development and released as a **beta version**. While we strive for stability, you may encounter bugs or incomplete features. We appreciate your feedback and bug reports to help us improve!
+> Hey there! 👋 FlexySSH is still in **beta** - we're actively building and improving it based on your feedback. You might run into a bug or two, but that's part of the journey! Help us make it better by reporting issues or suggesting features.
+>
+> **⏰ This beta expires:** **Expires:** 2025-12-16
+> Don't worry - we'll release a fresh version before then! 🚀
 
 ---
 
@@ -25,7 +28,7 @@ _Professional SSH client with beautiful interface and powerful features_
 
 <img src="screenshots/connection-manager.png" alt="Connection Manager" width="30%" />
 <img src="screenshots/terminal.png" alt="Terminal" width="30%" />
-<img src="screenshots/snippets.png" alt="Snippets Manager" width="30%" />
+<img src="screenshots/snippet-manager.png" alt="Snippets Manager" width="30%" />
 
 _Connection Manager • Terminal Sessions • Snippet Manager_
 
@@ -64,46 +67,49 @@ _Connection Manager • Terminal Sessions • Snippet Manager_
 
 ## 📥 Installation
 
-### Download & Install
+### Getting Started
 
-1. **Download** the latest installer from [Releases](https://github.com/flexytools-dev/flexyssh/releases)
+1. **Grab the installer** from our [Releases page](https://github.com/flexytools-dev/flexyssh/releases) 📦
 
-2. **Allow the download**
+2. **Your browser might get protective** 🛡️
 
-   - Your browser may warn about the file being potentially unsafe
-   - Click **"Keep"** or **"Keep anyway"** to proceed
-   - This is normal for new applications - our installer is safe and will be signed in future releases
+   - Click **"Keep"** or **"Keep anyway"**
+   - We're a new app building our reputation - totally normal!
 
-3. **Windows SmartScreen**
+3. **Windows SmartScreen will probably say hi** 👮
 
-   - Windows may show a "Windows protected your PC" warning
-   - Click **"More info"** and then **"Run anyway"**
-   - This happens because we're still in beta and building our reputation with Microsoft
+   - Click **"More info"** → **"Run anyway"**
+   - This happens because we're still in beta (working on official signing!)
 
-4. **Run** the setup wizard and follow the installation steps
+4. **Follow the installer** - it's pretty straightforward ✨
 
-5. **Launch** FlexySSH and start connecting!
+5. **Launch FlexySSH** and start managing your servers! 🎉
 
-> **ℹ️ Security Note:** These warnings are standard for new applications. FlexySSH is safe to install. We're working on obtaining official code signing certificates to eliminate these warnings in future releases.
+> **💡 Why all the warnings?**
+> We're a new app! Once we get enough users and an official code signing certificate, these warnings will disappear. For now, we're safe - just not famous yet 😊
 
 ## 🚀 Quick Start
 
-1. **Create a Connection**
+**First time here? Let's get you connected!**
 
-   - Click "New Connection" in the Connection Manager
-   - Enter your server details (hostname, port, username)
-   - Choose your authentication method
+1. **Create your first connection** 🔌
 
-2. **Connect**
+   - Hit "New Connection" in the Connection Manager
+   - Fill in your server details (host, port, username)
+   - Pick your auth method (password or SSH key)
 
-   - Click the "Connect" button
-   - Enter your password or select your SSH key
-   - Start working in the terminal!
+2. **Connect!** ⚡
 
-3. **Organize**
-   - Create folders to group related connections
-   - Add colors to visually distinguish projects
-   - Mark favorites for quick access
+   - Click that shiny "Connect" button
+   - Enter credentials if needed
+   - Boom! You're in the terminal 🎯
+
+3. **Stay organized** 📁
+   - Group connections in colored folders
+   - Star your favorites for quick access
+   - Use colors to tell projects apart at a glance
+
+**Pro tip:** Double-click any terminal tab to duplicate the session instantly! 🚀
 
 ## 🎨 Screenshots
 
@@ -113,22 +119,26 @@ _Connection Manager • Terminal Sessions • Snippet Manager_
 
 _Organize your SSH connections in a beautiful three-column interface_
 
-### Terminal Sessions
-
-_Professional terminal with full ANSI color support and multiple tabs_
-
 ### Snippet Manager
 
 _Save and organize your frequently used commands_
+
+### Terminal Sessions
+
+_Professional terminal with full ANSI color support and multiple tabs_
 
 </div>
 
 ## 🔒 Security & Privacy
 
-- **Local Storage** - All your data stays on your computer
-- **Encrypted Credentials** - Passwords and SSH keys are stored securely using Windows Credential Manager
-- **No Telemetry** - We don't collect or send any usage data
-- **Code Signing** - All releases are digitally signed for authenticity
+We take your security seriously - here's our promise:
+
+- **🏠 Everything stays local** - Your data never leaves your computer
+- **🔐 Encrypted credentials** - Passwords and SSH keys stored securely via Windows Credential Manager
+- **🚫 Zero telemetry** - We don't track, collect, or phone home. Ever.
+- **✍️ Digitally signed** - Every release is signed (working on official certificates!)
+
+Your servers, your data, your privacy. Period.
 
 ## 📝 License
 
