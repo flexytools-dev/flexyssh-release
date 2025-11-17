@@ -148,6 +148,6 @@ This software is proprietary. Please see the [EULA](LICENSE) for terms of use.
 
 <div align="center">
 
-**Made with ❤️ by FlexyTools.**
+**Made with ❤️ by FlexyTools**
 
 </div>
